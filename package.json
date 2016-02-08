@@ -1,0 +1,7 @@
+{ "name": "catchnrun",
+  "description": "catchnrun game",
+  "version": "0.0.1",
+  "devDependencies": { },
+  "scripts": { },
+  "main": "index.js"
+}
