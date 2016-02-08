@@ -1,5 +1,5 @@
 // App js
 (function() {
-	var go = 'running!';
+	var go = 'running1!';
 	console.log( go );
 })();
