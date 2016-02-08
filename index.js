@@ -8,6 +8,6 @@ var server = http.createServer(function(request, response){
     response.end('CATCH N RUN');
 });
 
-server.listen(80, function(){
+server.listen(8888, function(){
     console.log("Server started");
 });
