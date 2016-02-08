@@ -1,2 +1,1 @@
-build: build/deploy.sh
-web: nodejs index.js
+web: node index.js
